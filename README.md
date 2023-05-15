@@ -6,8 +6,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=14B100&width=435&lines=%22Vivere+est+cogitare%22;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;%E2%80%9CCogito+Ergo+Sum%E2%80%9D+;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;%22Dum+spiro%2C+spero%22;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;%22Lux+in+tenebris%22;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;Faciam+ut+mei+memineris;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg) 
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=40&pause=1000&color=00902E&center=true&vCenter=true&width=440&lines=Hello+traveler+%5E_%5E;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;Glad+to+see+you+on+my+page!+;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+;I+wish+you+a+good+day+and+a+working+code+%3A3;.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
