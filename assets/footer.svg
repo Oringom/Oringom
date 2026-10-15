@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+  <defs>
+    <pattern id="seigaiha" width="40" height="20" patternUnits="userSpaceOnUse">
+      <g fill="#141831" stroke="#2f3a6b" stroke-width="1.4">
+        <g id="w">
+          <circle r="20"/><circle r="14.5"/><circle r="9"/><circle r="3.5"/>
+        </g>
+        <use href="#w" x="40"/>
+        <use href="#w" x="20" y="10"/>
+        <use href="#w" x="0" y="20"/>
+        <use href="#w" x="40" y="20"/>
+      </g>
+      <animateTransform attributeName="patternTransform" type="translate" values="0 0;40 0" dur="12s" repeatCount="indefinite"/>
+    </pattern>
+    <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1124" stop-opacity="1"/>
+      <stop offset="0.6" stop-color="#0d1124" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1000" height="150" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="150" fill="url(#seigaiha)"/>
+    <rect width="1000" height="150" fill="url(#fadeTop)"/>
+  </g>
+  <text x="500" y="58" text-anchor="middle" fill="#f2e8d5" font-size="26" letter-spacing="10"
+        font-family="'Noto Serif JP','Yu Mincho','YuMincho','Hiragino Mincho ProN','MS Mincho',serif">またね</text>
+  <text x="500" y="88" text-anchor="middle" fill="#c9a86a" font-size="14" letter-spacing="5"
+        font-family="'Noto Serif JP','Yu Mincho','YuMincho','Hiragino Mincho ProN','MS Mincho',serif">see you, traveler ・ 良い一日を</text>
+</svg>

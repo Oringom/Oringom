@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="40" viewBox="0 0 1000 40">
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#c9a86a" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#c9a86a" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#c9a86a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="80" y="19.5" width="370" height="1" fill="url(#l)"/>
+  <rect x="550" y="19.5" width="370" height="1" fill="url(#l)"/>
+  <g transform="translate(500,20)">
+    <g fill="#f4b6c2">
+      <ellipse cx="0" cy="-8" rx="4.5" ry="8"/>
+      <ellipse cx="0" cy="-8" rx="4.5" ry="8" transform="rotate(72)"/>
+      <ellipse cx="0" cy="-8" rx="4.5" ry="8" transform="rotate(144)"/>
+      <ellipse cx="0" cy="-8" rx="4.5" ry="8" transform="rotate(216)"/>
+      <ellipse cx="0" cy="-8" rx="4.5" ry="8" transform="rotate(288)"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;72" dur="8s" repeatCount="indefinite"/>
+    </g>
+    <circle r="3.2" fill="#c8102e"/>
+  </g>
+  <circle cx="470" cy="20" r="2" fill="#c8102e"/>
+  <circle cx="530" cy="20" r="2" fill="#c8102e"/>
+</svg>
