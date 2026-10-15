@@ -117,3 +117,17 @@
 <sub>— Ёса Бусон</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 月天心　貧しき町を　通りけり
+
+<sub><i>tsuki tenshin / mazushiki machi wo / tōrikeri</i></sub>
+
+Луна в зените. Иду через бедный квартал.
+
+<sub>— Ёса Бусон</sub>
+
+</div>
