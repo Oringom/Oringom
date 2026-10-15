@@ -75,3 +75,17 @@
 <sub>— Мацуо Басё</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 秋深き　隣は何を　する人ぞ
+
+<sub><i>aki fukaki / tonari wa nani wo / suru hito zo</i></sub>
+
+Глубокая осень. Чем же живёт мой сосед?
+
+<sub>— Мацуо Басё</sub>
+
+</div>
