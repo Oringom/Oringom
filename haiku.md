@@ -131,3 +131,17 @@
 <sub>— Ёса Бусон</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 雀の子　そこのけそこのけ　御馬が通る
+
+<sub><i>suzume no ko / soko noke soko noke / ouma ga tōru</i></sub>
+
+Воробушек, посторонись, посторонись — едет конь!
+
+<sub>— Кобаяси Исса</sub>
+
+</div>
