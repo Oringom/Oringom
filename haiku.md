@@ -103,3 +103,17 @@
 <sub>— Ёса Бусон</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 春の海　終日のたり　のたりかな
+
+<sub><i>haru no umi / hinemosu notari / notari kana</i></sub>
+
+Весеннее море весь день лениво колышется.
+
+<sub>— Ёса Бусон</sub>
+
+</div>
