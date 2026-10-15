@@ -47,3 +47,17 @@
 <sub>— Мацуо Басё</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 旅に病んで　夢は枯野を　かけ廻る
+
+<sub><i>tabi ni yande / yume wa kareno wo / kakemeguru</i></sub>
+
+Заболел в пути, а сны всё кружат по увядшим полям.
+
+<sub>— Мацуо Басё</sub>
+
+</div>
