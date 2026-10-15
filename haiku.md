@@ -201,3 +201,17 @@
 <sub>— Масаока Сики</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 朝顔に　釣瓶とられて　もらひ水
+
+<sub><i>asagao ni / tsurube torarete / moraimizu</i></sub>
+
+Вьюнок обвил ведро — иду за водой к соседям.
+
+<sub>— Тиё-ни</sub>
+
+</div>
