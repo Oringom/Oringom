@@ -145,3 +145,17 @@
 <sub>— Кобаяси Исса</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 痩蛙　まけるな一茶　是に有り
+
+<sub><i>yasegaeru / makeru na issa / kore ni ari</i></sub>
+
+Тощий лягушонок, не сдавайся — Исса с тобой.
+
+<sub>— Кобаяси Исса</sub>
+
+</div>
