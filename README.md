@@ -19,6 +19,10 @@
 
 <img src="assets/divider.svg" width="100%"/>
 
+### 〔 俳句 ・ haiku 〕
+
+<a href="haiku.md">📜 Сборник классических хайку</a>
+
 ### 〔 言葉 ・ words 〕
 
 <b>七転び八起き</b><br/>
