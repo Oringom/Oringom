@@ -173,3 +173,17 @@
 <sub>— Кобаяси Исса</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 我と来て　遊べや親の　ない雀
+
+<sub><i>ware to kite / asobe ya oya no / nai suzume</i></sub>
+
+Иди поиграй со мной, воробей-сиротка.
+
+<sub>— Кобаяси Исса</sub>
+
+</div>
