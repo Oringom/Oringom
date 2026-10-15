@@ -215,3 +215,17 @@
 <sub>— Тиё-ни</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 初しぐれ　猿も小蓑を　ほしげ也
+
+<sub><i>hatsushigure / saru mo komino wo / hoshige nari</i></sub>
+
+Первый зимний дождь. И обезьянке хочется плащ.
+
+<sub>— Мацуо Басё</sub>
+
+</div>
