@@ -89,3 +89,17 @@
 <sub>— Мацуо Басё</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 菜の花や　月は東に　日は西に
+
+<sub><i>na no hana ya / tsuki wa higashi ni / hi wa nishi ni</i></sub>
+
+Цветы рапса. Луна на востоке, солнце на западе.
+
+<sub>— Ёса Бусон</sub>
+
+</div>
