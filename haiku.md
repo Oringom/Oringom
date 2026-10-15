@@ -187,3 +187,17 @@
 <sub>— Кобаяси Исса</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 柿くへば　鐘が鳴るなり　法隆寺
+
+<sub><i>kaki kueba / kane ga naru nari / hōryūji</i></sub>
+
+Ем хурму — и звонит колокол Хорюдзи.
+
+<sub>— Масаока Сики</sub>
+
+</div>
