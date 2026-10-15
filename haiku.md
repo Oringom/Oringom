@@ -159,3 +159,17 @@
 <sub>— Кобаяси Исса</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 露の世は　露の世ながら　さりながら
+
+<sub><i>tsuyu no yo wa / tsuyu no yo nagara / sarinagara</i></sub>
+
+Этот мир — лишь роса. И всё же, и всё же…
+
+<sub>— Кобаяси Исса</sub>
+
+</div>
