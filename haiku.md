@@ -33,3 +33,17 @@
 <sub>— Мацуо Басё</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 夏草や　兵どもが　夢の跡
+
+<sub><i>natsukusa ya / tsuwamonodomo ga / yume no ato</i></sub>
+
+Летние травы — всё, что осталось от снов воинов.
+
+<sub>— Мацуо Басё</sub>
+
+</div>
