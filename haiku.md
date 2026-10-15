@@ -61,3 +61,17 @@
 <sub>— Мацуо Басё</sub>
 
 </div>
+
+---
+
+<div align="center">
+
+### 荒海や　佐渡によこたふ　天河
+
+<sub><i>araumi ya / sado ni yokotau / amanogawa</i></sub>
+
+Бурное море. Над островом Садо — Млечный Путь.
+
+<sub>— Мацуо Басё</sub>
+
+</div>
